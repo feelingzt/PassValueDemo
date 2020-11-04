@@ -34,6 +34,7 @@
 		4921FBAD25529E7000F4CBD1 /* KVOCaseOneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4921FBAC25529E7000F4CBD1 /* KVOCaseOneViewController.m */; };
 		4921FBB125529EA600F4CBD1 /* KVOCaseTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4921FBB025529EA600F4CBD1 /* KVOCaseTwoViewController.m */; };
 		4921FBB525529EB300F4CBD1 /* KVOCaseThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4921FBB425529EB300F4CBD1 /* KVOCaseThreeViewController.m */; };
+		49F935E62552B1420090892E /* 观察者模式Note.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 49F935E52552B1420090892E /* 观察者模式Note.rtfd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -90,6 +91,7 @@
 		4921FBB025529EA600F4CBD1 /* KVOCaseTwoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KVOCaseTwoViewController.m; sourceTree = "<group>"; };
 		4921FBB325529EB300F4CBD1 /* KVOCaseThreeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KVOCaseThreeViewController.h; sourceTree = "<group>"; };
 		4921FBB425529EB300F4CBD1 /* KVOCaseThreeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KVOCaseThreeViewController.m; sourceTree = "<group>"; };
+		49F935E52552B1420090892E /* 观察者模式Note.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "观察者模式Note.rtfd"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				4921FB0B2552386600F4CBD1 /* AppDelegate.h */,
 				4921FB0C2552386600F4CBD1 /* AppDelegate.m */,
 				4921FB3C2552404000F4CBD1 /* README.md */,
+				49F935E52552B1420090892E /* 观察者模式Note.rtfd */,
 				4921FB172552386800F4CBD1 /* Assets.xcassets */,
 				4921FB192552386800F4CBD1 /* LaunchScreen.storyboard */,
 				4921FB1C2552386800F4CBD1 /* Info.plist */,
@@ -322,6 +325,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49F935E62552B1420090892E /* 观察者模式Note.rtfd in Resources */,
 				4921FB3D2552404000F4CBD1 /* README.md in Resources */,
 				4921FB1B2552386800F4CBD1 /* LaunchScreen.storyboard in Resources */,
 				4921FB182552386800F4CBD1 /* Assets.xcassets in Resources */,
